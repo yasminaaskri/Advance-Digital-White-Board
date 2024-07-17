@@ -28,7 +28,7 @@ Ensure you have Python 3 installed.
 1-Run the application:
 
 ```bash
-python whiteboard.py
+python main.py
 
 ```
 
